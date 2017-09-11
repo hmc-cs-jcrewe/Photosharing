@@ -8,42 +8,45 @@ The main functionality of the application is to allow a user to register an acco
 To run the application you must have Ruby on Rails and ImageMagick installed on your machine. If that is the case, you can cd into the directory containing the project using your terminal or command line, run the command "rails s" to activate the local rails server, then go to "http://localhost:3000" in a web browser. 
 
 
-![screen shot 2017-09-10 at 11 19 27 pm](https://user-images.githubusercontent.com/21328223/30260839-881bd646-967e-11e7-8586-87534d75d99e.png)
+![screen shot 2017-09-10 at 11 34 10 pm](https://user-images.githubusercontent.com/21328223/30261284-bb5296e2-9680-11e7-9e4a-8e1070f3020b.png)
+
 Register 
 
 
-![screen shot 2017-09-10 at 11 09 26 pm](https://user-images.githubusercontent.com/21328223/30260596-28dcf42c-967d-11e7-8339-11f910eaa0f0.png)
+![screen shot 2017-09-10 at 11 36 10 pm](https://user-images.githubusercontent.com/21328223/30261302-da5b24e6-9680-11e7-8667-17c08c5d8935.png)
 Successfully registered
 
 
-![screen shot 2017-09-10 at 11 10 24 pm](https://user-images.githubusercontent.com/21328223/30260606-4398f7ac-967d-11e7-8524-a8ba148a09d4.png)
+![screen shot 2017-09-10 at 11 36 34 pm](https://user-images.githubusercontent.com/21328223/30261319-e92cf0f8-9680-11e7-9906-e7195246f11d.png)
 Logout -- are you sure?
 
 
-![screen shot 2017-09-10 at 11 10 56 pm](https://user-images.githubusercontent.com/21328223/30260617-53f220b0-967d-11e7-95fe-a73276d1eb85.png)
+![screen shot 2017-09-10 at 11 36 55 pm](https://user-images.githubusercontent.com/21328223/30261329-f6a0bdfa-9680-11e7-9cf8-ade051fec6ab.png)
 Successfully Logout 
 
-![screen shot 2017-09-10 at 11 12 10 pm](https://user-images.githubusercontent.com/21328223/30260648-7edf7d04-967d-11e7-9008-04bcf9c10c6f.png)
+![screen shot 2017-09-10 at 11 37 20 pm](https://user-images.githubusercontent.com/21328223/30261340-03585490-9681-11e7-8b73-88d10344b3d6.png)
 Login 
 
-![screen shot 2017-09-10 at 11 12 39 pm](https://user-images.githubusercontent.com/21328223/30260659-9399d3f2-967d-11e7-94ca-d54c140d2cad.png)
+![screen shot 2017-09-10 at 11 37 44 pm](https://user-images.githubusercontent.com/21328223/30261351-12ad6656-9681-11e7-998e-f0e96bf680ae.png)
 Successfully Login
 
 
-![screen shot 2017-09-10 at 11 13 10 pm](https://user-images.githubusercontent.com/21328223/30260700-c97a62f2-967d-11e7-9382-c48ae07b33cf.png)
+![screen shot 2017-09-10 at 11 38 06 pm](https://user-images.githubusercontent.com/21328223/30261363-1e7f2a50-9681-11e7-8f5e-5daec19885f5.png)
 Add picture 
 
-![screen shot 2017-09-10 at 11 16 15 pm](https://user-images.githubusercontent.com/21328223/30260752-137bbac2-967e-11e7-970d-4ee1eb87dd6e.png)
+![screen shot 2017-09-10 at 11 38 42 pm](https://user-images.githubusercontent.com/21328223/30261384-34c2b94e-9681-11e7-98fc-d80c1424166e.png)
 Select picture to add
 
 
-![screen shot 2017-09-10 at 11 17 04 pm](https://user-images.githubusercontent.com/21328223/30260774-36bcd3fe-967e-11e7-8a5f-f5d63ddde235.png)
+![screen shot 2017-09-10 at 11 39 14 pm](https://user-images.githubusercontent.com/21328223/30261398-487f8a0c-9681-11e7-9aec-a5f506ea4190.png)
 Successfully adding a picture 
 
 
-![screen shot 2017-09-10 at 11 18 02 pm](https://user-images.githubusercontent.com/21328223/30260802-522d1e6e-967e-11e7-99c4-6a73db570e91.png)
+![screen shot 2017-09-10 at 11 39 42 pm](https://user-images.githubusercontent.com/21328223/30261412-5969d02a-9681-11e7-9346-360d188a3e04.png)
+
 View Wall of many pictures -- Zoomed out from normal view to allow for multiple pictures 
 
 
-![screen shot 2017-09-10 at 11 18 54 pm](https://user-images.githubusercontent.com/21328223/30260827-70e3fc42-967e-11e7-8b60-4cc3ca7e1c0c.png)
+![screen shot 2017-09-10 at 11 40 10 pm](https://user-images.githubusercontent.com/21328223/30261424-686b358c-9681-11e7-83a2-7ebc1b893b33.png)
+
 Can't add pictures if logged out 
