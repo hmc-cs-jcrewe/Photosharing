@@ -1,0 +1,17 @@
+<h2> New Post </h2>
+<%- if current_user %>
+<hr>
+<%= form_for @post, html: { multipart: true } do |f| %>
+        <%= f.label :image %>
+        <%= f.file_field :image %>
+    <br>
+    <%= f.label :description %>
+    <%= f.text_area :description %>
+    <br> 
+    <%= f.submit %>
+<% end %>
+
+<% else %>
+    <p> Please sign up or sign in above to start building an awesome wall of pictures</p>
+
+<% end %>
